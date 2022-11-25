@@ -14,7 +14,11 @@ An attempt to list as many different projects/tools/scripts related to Mastodon 
 * [selfagency/mastodont](https://github.com/selfagency/mastodont)
 * [thegem-city/moderation](https://github.com/thegem-city/moderation)
 * [Anthchirp/mastodon-defederate](https://github.com/Anthchirp/mastodon-defederate)
+* [bram-dingelstad/mastodon-tools](https://github.com/bram-dingelstad/mastodon-tools)
+* [chdorner/secretbearsociety](https://github.com/chdorner/secretbearsociety)
 
 ## Unmaintained
 
 * [kensanata/mastodon-blocker](https://github.com/kensanata/mastodon-blocker)
+* [ChlorideCull/MastoAdmin](https://github.com/ChlorideCull/MastoAdmin)
+* [rummik/blockchain-sync](https://github.com/rummik/blockchain-sync)
