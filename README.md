@@ -3,7 +3,7 @@ An attempt to list as many different projects/tools/scripts related to Mastodon 
 
 ## Active
 
-* [Official Mastodon instance-level domain blocks/allows import/exportfunctionality](https://github.com/mastodon/mastodon/pull/20597) - as of yet unreleased
+* [Official Mastodon instance-level domain blocks/allows import/export functionality](https://github.com/mastodon/mastodon/pull/20597) - as of yet unreleased
 * [hachyderm/hack](https://github.com/hachyderm/hack)
 * [irubnich/fediblock-importer](https://github.com/irubnich/fediblock-importer)
 * [netshepsky/FediBlock-Importer](https://github.com/netshepsky/FediBlock-Importer)
