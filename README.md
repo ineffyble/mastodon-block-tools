@@ -11,6 +11,9 @@ An attempt to list as many different projects/tools/scripts related to Mastodon 
 * [freesbie/mastodon_blocklister](https://github.com/freesbie/mastodon_blocklister)
 * [goosefans/mastodon-json-blocklist](https://github.com/goosefans/mastodon-json-blocklist)
 * [warthog9/mastodon-block-importer](https://github.com/warthog9/mastodon-block-importer)
+* [selfagency/mastodont](https://github.com/selfagency/mastodont)
+* [thegem-city/moderation](https://github.com/thegem-city/moderation)
+* [Anthchirp/mastodon-defederate](https://github.com/Anthchirp/mastodon-defederate)
 
 ## Unmaintained
 
