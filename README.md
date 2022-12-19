@@ -16,6 +16,9 @@ An attempt to list as many different projects/tools/scripts related to Mastodon 
 * [Anthchirp/mastodon-defederate](https://github.com/Anthchirp/mastodon-defederate)
 * [bram-dingelstad/mastodon-tools](https://github.com/bram-dingelstad/mastodon-tools)
 * [chdorner/secretbearsociety](https://github.com/chdorner/secretbearsociety)
+* [d3cline/fossilize](https://github.com/d3cline/fossilize)
+* [azcoigreach/mastodon-blocklist-manager](https://github.com/azcoigreach/mastodon-blocklist-manager)
+* [jrconlin/block-sync](https://github.com/jrconlin/block-sync)
 
 ## Unmaintained
 
