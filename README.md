@@ -7,7 +7,6 @@ An attempt to list as many different projects/tools/scripts related to Mastodon 
 
 | Repo | Language | Stars | Last Commit |
 | ---- | -------- | ----- | ----------- |
-| **[hachyderm/hack](https://github.com/hachyderm/hack)** | ![Language](https://img.shields.io/github/languages/top/hachyderm/hack?style=for-the-badge) | ![Stars](https://img.shields.io/github/stars/hachyderm/hack?style=for-the-badge) | ![Last Commit](https://img.shields.io/github/last-commit/hachyderm/hack?style=for-the-badge) |
 | **[irubnich/fediblock-importer](https://github.com/irubnich/fediblock-importer)** | ![Language](https://img.shields.io/github/languages/top/irubnich/fediblock-importer?style=for-the-badge) | ![Stars](https://img.shields.io/github/stars/irubnich/fediblock-importer?style=for-the-badge) | ![Last Commit](https://img.shields.io/github/last-commit/irubnich/fediblock-importer?style=for-the-badge) |
 | **[netshepsky/FediBlock-Importer](https://github.com/netshepsky/FediBlock-Importer)** | ![Language](https://img.shields.io/github/languages/top/netshepsky/FediBlock-Importer?style=for-the-badge) | ![Stars](https://img.shields.io/github/stars/netshepsky/FediBlock-Importer?style=for-the-badge) | ![Last Commit](https://img.shields.io/github/last-commit/netshepsky/FediBlock-Importer?style=for-the-badge) |
 | **[rapidblock-org/rapidblock](https://github.com/rapidblock-org/rapidblock)** | ![Language](https://img.shields.io/github/languages/top/rapidblock-org/rapidblock?style=for-the-badge) | ![Stars](https://img.shields.io/github/stars/rapidblock-org/rapidblock?style=for-the-badge) | ![Last Commit](https://img.shields.io/github/last-commit/rapidblock-org/rapidblock?style=for-the-badge) |
@@ -31,3 +30,4 @@ An attempt to list as many different projects/tools/scripts related to Mastodon 
 * [kensanata/mastodon-blocker](https://github.com/kensanata/mastodon-blocker)
 * [ChlorideCull/MastoAdmin](https://github.com/ChlorideCull/MastoAdmin)
 * [rummik/blockchain-sync](https://github.com/rummik/blockchain-sync)
+* [hachyderm/hack](https://github.com/hachyderm/hack)
