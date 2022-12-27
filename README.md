@@ -23,6 +23,8 @@ An attempt to list as many different projects/tools/scripts related to Mastodon 
 | **[azcoigreach/mastodon-blocklist-manager](https://github.com/azcoigreach/mastodon-blocklist-manager)** | ![Language](https://img.shields.io/github/languages/top/azcoigreach/mastodon-blocklist-manager?style=for-the-badge) | ![Stars](https://img.shields.io/github/stars/azcoigreach/mastodon-blocklist-manager?style=for-the-badge) | ![Last Commit](https://img.shields.io/github/last-commit/azcoigreach/mastodon-blocklist-manager?style=for-the-badge) |
 | **[jrconlin/block-sync](https://github.com/jrconlin/block-sync)** | ![Language](https://img.shields.io/github/languages/top/jrconlin/block-sync?style=for-the-badge) | ![Stars](https://img.shields.io/github/stars/jrconlin/block-sync?style=for-the-badge) | ![Last Commit](https://img.shields.io/github/last-commit/jrconlin/block-sync?style=for-the-badge) |
 | **[eigenmagic/fediblockhole](https://github.com/eigenmagic/fediblockhole)** | ![Language](https://img.shields.io/github/languages/top/eigenmagic/fediblockhole?style=for-the-badge) | ![Stars](https://img.shields.io/github/stars/eigenmagic/fediblockhole?style=for-the-badge) | ![Last Commit](https://img.shields.io/github/last-commit/eigenmagic/fediblockhole?style=for-the-badge) |
+| **[ericdano/Mastodon](https://github.com/ericdano/Mastodon)** | ![Language](https://img.shields.io/github/languages/top/ericdano/Mastodon?style=for-the-badge) | ![Stars](https://img.shields.io/github/stars/ericdano/Mastodon?style=for-the-badge) | ![Last Commit](https://img.shields.io/github/last-commit/ericdano/Mastodon?style=for-the-badge) |
+
 
 ## Unmaintained
 
